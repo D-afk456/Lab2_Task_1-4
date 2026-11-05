@@ -1,2 +1,2 @@
-# Lab_2_-Task1-4-
+# Lab_2_Task1-4
 csharp-labs
